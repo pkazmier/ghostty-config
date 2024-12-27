@@ -1,0 +1,12 @@
+font-family = Cascadia Code
+font-style = Regular
+font-style-bold = Bold
+font-style-italic = Regular Oblique
+font-style-bold-italic = Bold Oblique
+font-feature = calt
+font-feature = ss01
+adjust-cell-height = 12
+adjust-cursor-height = 12
+
+
+# vim: ft=config

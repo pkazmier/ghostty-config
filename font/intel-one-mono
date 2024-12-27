@@ -1,0 +1,11 @@
+font-family = Intel One Mono
+font-feature = ss01
+font-feature = ss02
+font-feature = ss03
+font-feature = ss11
+adjust-cell-height = 2
+adjust-cursor-height = 2
+
+
+
+# vim: ft=config

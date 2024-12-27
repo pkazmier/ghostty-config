@@ -1,0 +1,32 @@
+auto-update-channel = tip
+font-size = 14
+macos-option-as-alt = true
+mouse-hide-while-typing = true
+
+# The following function is in my .zshrc, which allows me to use fzf to
+# execute Ghostty configuration snippets. I use this to quickly switch
+# between fonts for example instead of having to edit my config file
+# constantly. See write up in this Github issue:
+# https://github.com/ghostty-org/ghostty/discussions/3527
+#
+#   function gc {
+#     local GHOSTTY_DIR="$HOME/.config/ghostty"
+#     local CMD="sed -i '' 's:\(config-file = {1}\)/.*:\1/{2}:' $GHOSTTY_DIR/config && osascript -so -e 'tell application \"Ghostty\" to activate' -e 'tell application \"System Events\" to keystroke \",\" using {command down, shift down}'"
+#     fd \
+#       --type f \
+#       --exclude 'config' \
+#       --base-directory $GHOSTTY_DIR \
+#     | fzf \
+#       --header="<ctrl-y> :: enable, don't exit" \
+#       --preview "cat $GHOSTTY_DIR/{}" \
+#       --delimiter=/ \
+#       --bind="enter:become:$CMD"
+#   }
+
+config-file = font/berkeley-mono
+config-file = theme/tokyonight-moon
+config-file = opacity/100%
+
+
+
+# vim: ft=config

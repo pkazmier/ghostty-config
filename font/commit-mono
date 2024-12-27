@@ -1,0 +1,18 @@
+font-family = CommitMono
+font-style = 400Regular
+font-style-bold = 700Regular
+font-style-italic = 400Italic
+font-style-bold-italic = 700Italic
+font-feature = ss01
+font-feature = ss02
+font-feature = ss03
+font-feature = ss04
+font-feature = ss05
+font-feature = cv07
+font-feature = cv08
+adjust-cell-height = 8
+adjust-cursor-height = 8
+
+
+
+# vim: ft=config

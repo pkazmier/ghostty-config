@@ -1,0 +1,8 @@
+font-family = 0xProto
+font-feature = ss01
+adjust-cell-height = 8
+adjust-cursor-height = 8
+
+
+
+# vim: ft=config

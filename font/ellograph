@@ -1,0 +1,10 @@
+font-family = Ellograph CF
+font-style = Light
+font-style-bold = Heavy
+font-style-italic = Light Italic
+font-style-bold-italic = Heavy Italic
+adjust-cell-height = 8
+adjust-cursor-height = 8
+
+
+# vim: ft=config

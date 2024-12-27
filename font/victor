@@ -1,0 +1,11 @@
+font-family = Victor Mono
+font-style = Regular
+font-style-bold = Bold
+font-style-italic = Oblique
+font-style-bold-italic = Bold Oblique
+adjust-cell-height = 2
+adjust-cursor-height = 2
+
+
+
+# vim: ft=config
