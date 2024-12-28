@@ -1,0 +1,6 @@
+custom-shader = /Users/kaz/repos/ghostty-shaders/just-snow.glsl
+custom-shader-animation = true
+
+
+
+# vim: ft=config

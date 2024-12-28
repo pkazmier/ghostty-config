@@ -1,0 +1,6 @@
+custom-shader = /Users/kaz/repos/ghostty-shaders/starfield-colors.glsl
+custom-shader-animation = true
+
+
+
+# vim: ft=config
