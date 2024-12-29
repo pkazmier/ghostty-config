@@ -1,0 +1,7 @@
+
+custom-shader = /Users/kaz/repos/ghostty-shaders/matrix-hallway.glsl
+custom-shader-animation = true
+
+
+
+# vim: ft=config
