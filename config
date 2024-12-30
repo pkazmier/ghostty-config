@@ -1,3 +1,5 @@
+adjust-underline-position = 6
+adjust-underline-thickness = 1
 auto-update-channel = tip
 font-size = 14
 macos-option-as-alt = true
@@ -27,10 +29,10 @@ macos-icon-screen-color = "222436"
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/berkeley-mono
+config-file = font/monolisa
 config-file = theme/tokyonight-moon
-config-file = opacity/100%
-config-file = shader/inside-the-matrix
+config-file = opacity/70%
+config-file = shader/sparks-from-fire
 
 
 
