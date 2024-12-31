@@ -1,5 +1,4 @@
 custom-shader = /Users/kaz/repos/ghostty-shaders/animated-gradient-shader.glsl
-custom-shader-animation = true
 
 
 # vim: ft=config

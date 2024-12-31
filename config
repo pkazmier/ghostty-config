@@ -1,6 +1,7 @@
 adjust-underline-position = 8
 adjust-underline-thickness = 2
 auto-update-channel = tip
+custom-shader-animation = "always"
 font-size = 14
 macos-icon = "custom-style"
 macos-icon-frame = "aluminum"
