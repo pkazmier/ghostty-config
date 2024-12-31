@@ -1,14 +1,15 @@
 adjust-underline-position = 8
 adjust-underline-thickness = 2
-auto-update-channel = tip
+auto-update-channel = "tip"
 custom-shader-animation = "always"
 font-size = 14
+keybind = "global:super+ctrl+.=toggle_quick_terminal"
 macos-icon = "custom-style"
 macos-icon-frame = "aluminum"
 macos-icon-ghost-color = "86e1fc"
 macos-icon-screen-color = "222436"
-macos-option-as-alt = true
-mouse-hide-while-typing = true
+macos-option-as-alt = "true"
+mouse-hide-while-typing = "true"
 
 # The following function is in my .zshrc, which allows me to use fzf to
 # execute Ghostty configuration snippets. I use this to quickly switch
