@@ -1,8 +1,8 @@
 font-family = TX-02
 font-style = Regular
-font-style-bold = ExtraBold
+font-style-bold = Black
 font-style-italic = Oblique
-font-style-bold-italic = ExtraBold Oblique
+font-style-bold-italic = Black Oblique
 font-feature = ss02
 adjust-cell-height = 7
 adjust-cursor-height = 7
