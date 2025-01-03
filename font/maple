@@ -1,0 +1,11 @@
+font-family = Maple Mono
+font-style = Regular
+font-style-bold = ExtraBold
+font-style-italic = Italic
+font-style-bold-italic = ExtraBold Italic
+adjust-cell-height = 4
+adjust-cursor-height = 4
+
+
+
+# vim: ft=config
