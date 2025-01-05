@@ -9,7 +9,6 @@ macos-icon-frame = "aluminum"
 macos-icon-ghost-color = "86e1fc"
 macos-icon-screen-color = "222436"
 macos-option-as-alt = "true"
-macos-titlebar-style = "tabs"
 mouse-hide-while-typing = "true"
 
 # The following function is in my .zshrc, which allows me to use fzf to
