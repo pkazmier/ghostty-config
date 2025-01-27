@@ -10,6 +10,8 @@ macos-icon-ghost-color = "86e1fc"
 macos-icon-screen-color = "222436"
 macos-option-as-alt = "true"
 mouse-hide-while-typing = "true"
+font-thicken = true
+text-blending = linear-corrected
 
 # The following function is in my .zshrc, which allows me to use fzf to
 # execute Ghostty configuration snippets. I use this to quickly switch
@@ -31,10 +33,10 @@ mouse-hide-while-typing = "true"
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/berkeley-mono
+config-file = font/monolisa
 config-file = theme/tokyonight-moon
-config-file = opacity/70%
-config-file = shader/sparks-from-fire
+config-file = opacity/100%
+config-file = shader/none
 
 
 
