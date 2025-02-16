@@ -34,6 +34,7 @@ alpha-blending = linear-corrected
 #   }
 
 config-file = font/lilex
+config-file = leading/default
 config-file = theme/tokyonight-moon
 config-file = opacity/100%
 config-file = shader/none

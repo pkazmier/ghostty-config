@@ -1,0 +1,4 @@
+# Empty by design so it falls back to the default value set in the font
+# configuration as I've tuned leading on font by font basis.
+
+# vim: ft=config
