@@ -33,7 +33,7 @@ alpha-blending = linear-corrected
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/lilex
+config-file = font/iosevka
 config-file = leading/default
 config-file = theme/tokyonight-moon
 config-file = opacity/100%

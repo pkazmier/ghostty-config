@@ -1,0 +1,10 @@
+font-family = Iosevka Nerd Font
+font-style = Regular
+font-style-italic = Italic
+font-style-bold = Heavy
+font-style-bold-italic = Heavy Italic
+
+adjust-cell-height = 2
+adjust-cursor-height = 2
+
+# vim: ft=config
