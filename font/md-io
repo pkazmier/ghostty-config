@@ -1,0 +1,9 @@
+font-family = MD IO
+font-style = Regular
+font-style-italic = Italic
+font-style-bold = Black
+font-style-bold-italic = Black Italic
+adjust-cell-height = 15
+adjust-cursor-height = 15
+
+# vim: ft=config
