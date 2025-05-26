@@ -1,5 +1,5 @@
 adjust-underline-position = 8
-adjust-underline-thickness = 2
+adjust-underline-thickness = 0
 auto-update-channel = "tip"
 cursor-invert-fg-bg = true
 custom-shader-animation = "always"
@@ -33,9 +33,9 @@ alpha-blending = linear-corrected
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/md-io
+config-file = font/berkeley-mono
 config-file = leading/default
-config-file = theme/tokyonight-moon
+config-file = theme/vague
 config-file = opacity/100%
 config-file = shader/none
 
