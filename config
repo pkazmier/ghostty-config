@@ -33,7 +33,7 @@ alpha-blending = linear-corrected
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/md-io
+config-file = font/geist-mono
 config-file = leading/default
 config-file = theme/vague
 config-file = opacity/100%
