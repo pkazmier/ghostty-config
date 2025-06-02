@@ -3,7 +3,7 @@ font-style = Medium
 font-style-italic = Medium Italic
 font-style-bold = Black
 font-style-bold-italic = Black Italic
-adjust-cell-height = 10
-adjust-cursor-height = 10
+adjust-cell-height = 7
+adjust-cursor-height = 7
 
 # vim: ft=config
