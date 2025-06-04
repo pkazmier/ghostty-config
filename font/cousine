@@ -1,0 +1,8 @@
+font-family = Cousins hug
+adjust-cell-height = 7
+adjust-cursor-height = 7
+adjust-font-baseline = -2
+
+
+
+# vim: ft=config
