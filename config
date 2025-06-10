@@ -1,10 +1,24 @@
 adjust-underline-position = 8
 adjust-underline-thickness = 2
+alpha-blending = linear-corrected
 auto-update-channel = "tip"
 cursor-invert-fg-bg = true
 custom-shader-animation = "always"
+font-thicken = true
+macos-icon = "custom-style"
+macos-icon-frame = "aluminum"
+macos-icon-ghost-color = "86e1fc"
+macos-icon-screen-color = "222436"
+macos-option-as-alt = "true"
+mouse-hide-while-typing = "true"
+unfocused-split-fill = "#727169"
+
 keybind = "global:super+ctrl+.=toggle_quick_terminal"
 
+# Ghostty bindings with NAMES such as "equal" or "brocket_*" map to the
+# physical KEY on the keyboard regardless of the input layout (qwerty,
+# dvorak). Because I type in dvorak, these binding must be unset as they
+# map to the wrong keys.
 keybind = super++=unbind
 keybind = super+equal=unbind
 keybind = super+bracket_left=unbind
@@ -12,25 +26,20 @@ keybind = super+shift+bracket_left=unbind
 keybind = super+bracket_right=unbind
 keybind = super+shift+bracket_right=unbind
 
+# Ghostty bindings defined to charaters such a "=", "[", and "]" map to the
+# intended key in the current input layout. For example, when the layout is
+# dvorak, "[" maps to the physical key labeled as "-". This gives us bindings
+# that work in dvorak.
 keybind = super+==increase_font_size:1
 keybind = super+[=goto_split:previous
 keybind = super+shift+[=previous_tab
 keybind = super+]=goto_split:next
 keybind = super+shift+]=next_tab
 
-macos-icon = "custom-style"
-macos-icon-frame = "aluminum"
-macos-icon-ghost-color = "86e1fc"
-macos-icon-screen-color = "222436"
-macos-option-as-alt = "true"
-mouse-hide-while-typing = "true"
-font-thicken = true
-alpha-blending = linear-corrected
-
 # The following function is in my .zshrc, which allows me to use fzf to
-# execute Ghostty configuration snippets. I use this to quickly switch
-# between fonts for example instead of having to edit my config file
-# constantly. See write up in this Github issue:
+# execute Ghostty configuration snippets. I use this to quickly switch between
+# fonts for example instead of having to edit my config file constantly. See
+# write up in this Github issue:
 # https://github.com/ghostty-org/ghostty/discussions/3527
 #
 #   function gc {
