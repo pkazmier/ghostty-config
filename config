@@ -11,7 +11,7 @@ macos-icon-ghost-color = "86e1fc"
 macos-icon-screen-color = "222436"
 macos-option-as-alt = "true"
 mouse-hide-while-typing = "true"
-unfocused-split-fill = "#727169"
+unfocused-split-fill = "#000000"
 
 keybind = "global:super+ctrl+.=toggle_quick_terminal"
 
