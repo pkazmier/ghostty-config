@@ -60,7 +60,7 @@ config-file = font/fantasque-sans-mono
 config-file = leading/default
 config-file = theme/kanagawa-wave
 config-file = opacity/100%
-config-file = shader/none
+config-file = shader/cursor
 
 
 

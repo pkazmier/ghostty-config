@@ -1,0 +1,7 @@
+# custom-shader = /Users/kaz/repos/shader-playground/shaders/cursor_blaze.glsl
+custom-shader = /Users/kaz/repos/shader-playground/shaders/cursor_blaze_no_trail.glsl
+# custom-shader = /Users/kaz/repos/shader-playground/shaders/cursor_smear.glsl
+# custom-shader = /Users/kaz/repos/shader-playground/shaders/cursor_smear_fade.glsl
+
+
+# vim: ft=config
