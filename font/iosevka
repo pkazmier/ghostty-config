@@ -1,8 +1,8 @@
 font-family = Iosevka Nerd Font
 font-style = Regular
-font-style-italic = Italic
+font-style-italic = Oblique
 font-style-bold = Heavy
-font-style-bold-italic = Heavy Italic
+font-style-bold-italic = Heavy Oblique
 
 adjust-cell-height = 0
 adjust-cursor-height = 0
