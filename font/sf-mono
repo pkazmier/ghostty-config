@@ -3,6 +3,7 @@ font-style = Regular
 font-style-bold = Heavy
 font-style-italic = Italic
 font-style-bold-italic = Heavy Italic
+adjust-cell-width = -5%
 adjust-cell-height = 8
 adjust-cursor-height = 8
 
