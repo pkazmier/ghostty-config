@@ -56,11 +56,11 @@ keybind = super+shift+]=next_tab
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/fantasque-sans-mono
+config-file = font/sf-mono
 config-file = leading/default
-config-file = theme/kanagawa-wave
+config-file = theme/mellow
 config-file = opacity/100%
-config-file = shader/cursor
+config-file = shader/none
 
 
 
