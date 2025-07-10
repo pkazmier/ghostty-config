@@ -10,8 +10,6 @@ font-feature = ss14  # nicer '&'
 # font-feature = ss15  # no base on 'i'
 # font-feature = ss16  # no base on 'r'
 adjust-cell-width = -5%
-adjust-cell-height = 2
-adjust-cursor-height = 2
-
-
+adjust-cell-height = 10%
+adjust-cursor-height = 10%
 # vim: ft=config
