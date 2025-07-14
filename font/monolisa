@@ -3,12 +3,18 @@ font-style = Regular
 font-style-bold = Black
 font-style-italic = Regular Italic
 font-style-bold-italic = Black Italic
-font-feature = ss02  # cursive 'f'
-font-feature = ss07  # plex-like braces
-font-feature = ss11  # nicer hex '0x'
-font-feature = ss14  # nicer '&'
-# font-feature = ss15  # no base on 'i'
-# font-feature = ss16  # no base on 'r'
+# cursive 'f'
+font-feature = ss02
+# plex-like braces
+font-feature = ss07
+# nicer hex '0x'
+font-feature = ss11
+# nicer '&'
+font-feature = ss14
+# no base on 'i'
+# font-feature = ss15
+# no base on 'r'#
+# font-feature = ss16
 adjust-cell-width = -5%
 adjust-cell-height = 10%
 adjust-cursor-height = 10%
