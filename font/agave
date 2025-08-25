@@ -1,0 +1,8 @@
+font-family = Agave
+adjust-cell-height = 8
+adjust-cursor-height = 8
+adjust-font-baseline = -2
+
+
+
+# vim: ft=config

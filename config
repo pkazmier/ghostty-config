@@ -56,7 +56,7 @@ keybind = super+shift+]=next_tab
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/monolisa
+config-file = font/agave
 config-file = leading/default
 config-file = theme/mellow
 config-file = opacity/100%
