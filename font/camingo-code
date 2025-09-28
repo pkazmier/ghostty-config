@@ -1,0 +1,6 @@
+font-family = CamingoCode
+adjust-cell-height = 3
+adjust-cursor-height = 3
+adjust-font-baseline = 2
+
+# vim: ft=config
