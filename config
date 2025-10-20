@@ -61,10 +61,10 @@ keybind = super+shift+]=next_tab
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/monolisa
+config-file = font/sf-mono
 config-file = leading/default
 config-file = theme/minihues-winter
 config-file = opacity/100%
-config-file = shader/glitchy
+config-file = shader/none
 
 # vim: ft=config
