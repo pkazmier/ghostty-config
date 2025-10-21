@@ -63,7 +63,7 @@ keybind = super+shift+]=next_tab
 
 config-file = font/sf-mono
 config-file = leading/default
-config-file = theme/minihues-winter
+config-file = theme/ayu
 config-file = opacity/100%
 config-file = shader/none
 
