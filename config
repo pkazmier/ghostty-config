@@ -31,7 +31,7 @@ keybind = super+shift+bracket_left=unbind
 keybind = super+bracket_right=unbind
 keybind = super+shift+bracket_right=unbind
 
-# Ghostty bindings defined to charaters such a "=", "[", and "]" map to the
+# Ghostty bindings defined to characters such a "=", "[", and "]" map to the
 # intended key in the current input layout. For example, when the layout is
 # dvorak, "[" maps to the physical key labeled as "-". This gives us bindings
 # that work in dvorak.
@@ -40,6 +40,10 @@ keybind = super+[=goto_split:previous
 keybind = super+shift+[=previous_tab
 keybind = super+]=goto_split:next
 keybind = super+shift+]=next_tab
+
+# Jump between shell prompts
+keybind = super+shift+up=jump_to_prompt:-1
+keybind = super+shift+down=jump_to_prompt:1
 
 # The following function is in my .zshrc, which allows me to use fzf to
 # execute Ghostty configuration snippets. I use this to quickly switch between
@@ -61,7 +65,7 @@ keybind = super+shift+]=next_tab
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/sf-mono
+config-file = font/pragmata-pro
 config-file = leading/default
 config-file = theme/ayu
 config-file = opacity/100%
