@@ -14,7 +14,7 @@ font-feature = ss14
 # no base on 'i'
 # font-feature = ss15
 # no base on 'r'#
-# font-feature = ss16
+font-feature = ss16
 adjust-cell-width = -5%
 adjust-cell-height = 10%
 adjust-cursor-height = 10%
