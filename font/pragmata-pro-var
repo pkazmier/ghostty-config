@@ -1,0 +1,6 @@
+font-family = PragmataPro VF Liga
+adjust-underline-position = 5%
+adjust-cell-height = 20%
+adjust-cursor-height = 20%
+
+# vim: ft=config

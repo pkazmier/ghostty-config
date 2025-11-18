@@ -65,7 +65,7 @@ keybind = super+shift+down=jump_to_prompt:1
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/pragmata-pro
+config-file = font/pragmata-pro-var
 config-file = leading/default
 config-file = theme/ayu
 config-file = opacity/100%
