@@ -1,4 +1,6 @@
 font-family = PragmataPro VF Liga
+font-variation = wght=400
+font-variation-italic = wght=400
 adjust-underline-position = 5%
 adjust-cell-height = 20%
 adjust-cursor-height = 20%
