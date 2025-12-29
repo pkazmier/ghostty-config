@@ -6,8 +6,9 @@ font-variation-bold-italic = wght=900
 adjust-underline-position = 6%
 adjust-cell-height = 30%
 adjust-cursor-height = 30%
-font-feature = onum
 font-feature = dlig
+
+# These are disabled in 'name-mono-default'
 font-feature = ss03
 font-feature = ss07
 font-feature = ss09
@@ -15,6 +16,5 @@ font-feature = ss10
 font-feature = ss11
 font-feature = ss12
 font-feature = ss14
-# font-feature = ss16
 
 # vim: ft=config

@@ -4,7 +4,6 @@ alpha-blending = linear-corrected
 auto-update-channel = "tip"
 cursor-invert-fg-bg = true
 custom-shader-animation = "always"
-font-thicken = true
 macos-icon = "custom-style"
 macos-icon-frame = "aluminum"
 macos-icon-ghost-color = "86e1fc"
@@ -65,10 +64,11 @@ keybind = super+shift+down=jump_to_prompt:1
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/pragmata-pro-var
+config-file = font/name-mono
 config-file = leading/default
-config-file = theme/ayu
+config-file = theme/rose-pine
 config-file = opacity/100%
 config-file = shader/none
+config-file = thicken/on
 
 # vim: ft=config
