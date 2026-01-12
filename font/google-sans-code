@@ -1,0 +1,9 @@
+font-family = Google Sans Code
+font-variation = wght=400
+font-variation-italic = wght=400
+font-variation-bold = wght=800
+font-variation-bold-italic = wght=800
+adjust-cell-height = 20%
+adjust-cursor-height = 20%
+
+# vim: ft=config
