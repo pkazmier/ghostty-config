@@ -4,6 +4,7 @@ alpha-blending = linear-corrected
 auto-update-channel = "tip"
 cursor-invert-fg-bg = true
 custom-shader-animation = "always"
+desktop-notifications = true
 macos-icon = "custom-style"
 macos-icon-frame = "aluminum"
 macos-icon-ghost-color = "86e1fc"
@@ -65,12 +66,12 @@ keybind = super+shift+down=jump_to_prompt:1
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/name-mono-casual
-config-file = leading/default
+config-file = font/pragmata-pro
+config-file = leading/14
 config-file = theme/oasis-lagoon
 config-file = opacity/100%
-config-file = shader/none
+config-file = shader/smoke-and-ghost
 config-file = thicken/on
-config-file = oldstyle/on
+config-file = oldstyle/off
 
 # vim: ft=config
