@@ -1,7 +1,3 @@
-font-family = M+CodeLat50 Nerd Font
-adjust-cell-height = 6
-adjust-cursor-height = 6
-
-
+font-family = M PLUS Code Latin
 
 # vim: ft=config

@@ -3,9 +3,8 @@ font-style = Regular
 font-style-bold = Black
 font-style-italic = Oblique
 font-style-bold-italic = Black Oblique
-font-feature = ss02
 adjust-cell-height = 7
 adjust-cursor-height = 7
-adjust-box-thickness = -1
+# adjust-box-thickness = -1
 
 # vim: ft=config
