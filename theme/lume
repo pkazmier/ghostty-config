@@ -1,0 +1,30 @@
+# Lume — Lume (dark)
+# https://github.com/danfry1/lume
+
+background = #12101e
+foreground = #d8d0e4
+cursor-color = #d0a0b8
+cursor-text = #12101e
+selection-background = #262236
+selection-foreground = #d8d0e4
+
+# ANSI colors
+palette = 0=#1e1a2c
+palette = 1=#c49080
+palette = 2=#a0d4a8
+palette = 3=#c4b080
+palette = 4=#8cc0e0
+palette = 5=#b8a0e0
+palette = 6=#88c0b8
+palette = 7=#b0a8c4
+palette = 8=#302c42
+palette = 9=#d0a0b8
+palette = 10=#a8d4b8
+palette = 11=#e8b4a0
+palette = 12=#a0c8e0
+palette = 13=#c4b0e0
+palette = 14=#a0d4cc
+palette = 15=#d8d0e4
+
+
+# vim: ft=config
