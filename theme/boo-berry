@@ -1,0 +1,31 @@
+# Boo-Berry
+# Ported from mrpbennett/boo-berry.nvim (originally from the Helix boo_berry theme by bootra)
+
+background = #3A2A4D
+foreground = #C7B8E0
+
+cursor-color = #C7B8E0
+
+selection-background = #5A3D6E
+selection-foreground = #C7B8E0
+
+palette = 0=#2B1C3D
+palette = 1=#D678B5
+palette = 2=#7FC9AB
+palette = 3=#E3C0A8
+palette = 4=#C78DFC
+palette = 5=#D678B5
+palette = 6=#7FC9AB
+palette = 7=#C7B8E0
+
+palette = 8=#47345E
+palette = 9=#E08CC3
+palette = 10=#96D6BC
+palette = 11=#EDCFB8
+palette = 12=#D4A3FD
+palette = 13=#E08CC3
+palette = 14=#96D6BC
+palette = 15=#DDD0EE
+
+
+# vim: ft=config
