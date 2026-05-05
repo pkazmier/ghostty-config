@@ -66,11 +66,11 @@ keybind = super+shift+down=jump_to_prompt:1
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/pragmata-pro
-config-file = leading/14
-config-file = theme/oasis-lagoon
+config-file = font/monaspace-argon
+config-file = leading/12
+config-file = theme/thorn-forest
 config-file = opacity/100%
-config-file = shader/smoke-and-ghost
+config-file = shader/none
 config-file = thicken/on
 config-file = oldstyle/off
 
