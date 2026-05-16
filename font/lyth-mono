@@ -1,0 +1,5 @@
+font-family = Lyth Mono
+adjust-cell-height = 50%
+adjust-cursor-height = 50%
+
+# vim: ft=config

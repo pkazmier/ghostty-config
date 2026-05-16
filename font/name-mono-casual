@@ -9,12 +9,21 @@ adjust-cursor-height = 30%
 font-feature = dlig
 
 # These are disabled in 'name-mono-default'
+# dotted zero
+font-feature = zero
+# no base on 'r'
 font-feature = ss03
+# no base on 'f'
 font-feature = ss07
+# half base on 'i'
 font-feature = ss09
+# half base on 'i' in italic
 font-feature = ss10
+# half base on 'l'
 font-feature = ss11
+# half base on 'l' in italic
 font-feature = ss12
+# more open '6' and '9'
 font-feature = ss14
 
 # vim: ft=config

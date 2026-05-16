@@ -66,8 +66,8 @@ keybind = super+shift+down=jump_to_prompt:1
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/monaspace-argon
-config-file = leading/12
+config-file = font/name-mono-casual
+config-file = leading/default
 config-file = theme/thorn-forest
 config-file = opacity/100%
 config-file = shader/none
