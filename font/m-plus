@@ -1,3 +1,6 @@
 font-family = M PLUS Code Latin
 
+adjust-cell-height = 20%
+adjust-cursor-height = 20%
+
 # vim: ft=config
