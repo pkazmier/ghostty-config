@@ -1,0 +1,6 @@
+font-family = Aporetic Sans Mono
+adjust-cell-height = 25%
+adjust-cursor-height = 25%
+font-feature = calt
+
+# vim: ft=config
