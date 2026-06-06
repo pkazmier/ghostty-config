@@ -66,9 +66,9 @@ keybind = super+shift+down=jump_to_prompt:1
 #       --bind="enter:become:$CMD"
 #   }
 
-config-file = font/name-mono-casual
-config-file = leading/default
-config-file = theme/thorn-forest
+config-file = font/roboto-mono
+config-file = leading/12
+config-file = theme/compline
 config-file = opacity/100%
 config-file = shader/none
 config-file = thicken/on

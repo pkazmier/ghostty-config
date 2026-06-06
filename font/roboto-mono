@@ -1,4 +1,6 @@
 font-family = Roboto Mono
+font-variation = wght=400
+font-variation-italic = wght=400
 adjust-cell-height = 5
 adjust-cursor-height = 5
 
