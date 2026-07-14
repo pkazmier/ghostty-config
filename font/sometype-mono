@@ -1,0 +1,6 @@
+font-family = Sometype Mono
+adjust-underline-position = 10%
+adjust-cell-height = 15%
+adjust-cursor-height = 15%
+
+# vim: ft=config

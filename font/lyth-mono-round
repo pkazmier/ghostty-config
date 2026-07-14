@@ -1,5 +1,5 @@
 font-family = Lyth Mono Round
-adjust-cell-height = 50%
-adjust-cursor-height = 50%
+adjust-cell-height = 22%
+adjust-cursor-height = 22%
 
 # vim: ft=config
