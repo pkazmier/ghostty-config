@@ -68,7 +68,7 @@ keybind = super+shift+down=jump_to_prompt:1
 
 config-file = font/google-sans-code
 config-file = leading/default
-config-file = theme/rose-pine
+config-file = theme/cendre
 config-file = opacity/100%
 config-file = shader/none
 config-file = thicken/on
